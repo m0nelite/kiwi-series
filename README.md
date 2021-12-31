@@ -7,6 +7,6 @@ You can get the latest version without using that **bootstraper** and **best dow
 List of **methods**:
 * [Method 1 - Secret Key](https://github.com/m0nelite/kiwi-v2/tree/main/method%201)
 
-**Demonstration**: soon
+**Demonstration**: https://www.youtube.com/watch?v=_GgM_j9uP8A
 
-**Status Keys**: Working if you use Method 1 ✔ (12/31/2021)
+**Status Key**: Working if you use Method 1 ✔ (12/31/2021)
